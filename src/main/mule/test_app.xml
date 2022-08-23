@@ -10,5 +10,6 @@
 			</scheduling-strategy>
 		</scheduler>
 		<logger level="INFO" doc:name="Logger" doc:id="be3f034e-ff02-40ef-905e-be1f5c91f572" message='#["Testing GitHub CI/CD"]'/>
+		<logger level="INFO" doc:name="Logger" doc:id="daaa1426-599b-41ce-bc60-3da24de7525f" message='#["Test Successful"]'/>
 	</flow>
 </mule>
